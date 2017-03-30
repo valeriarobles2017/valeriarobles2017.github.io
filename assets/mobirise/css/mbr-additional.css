@@ -480,6 +480,25 @@ h6,
 #header1-1i .mbr-section-lead {
   color: #000000;
 }
+#msg-box2-1t .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-1t .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-1v .mbr-section-title,
+#header3-1v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1v SMALL {
+  color: #ffffff;
+}
+#header3-1v H3 {
+  color: #ffffff;
+}
+#social-buttons1-1s .mbr-section-title {
+  color: #ffffff;
+}
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
