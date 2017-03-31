@@ -311,6 +311,11 @@
             "Theme"
           ],
           "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "social-buttons1-1s",
           "_params": {
             "paddingTop": "1",
@@ -329,12 +334,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "Spread the Word!",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "Spread the Word!"
         }
       ]
     },
