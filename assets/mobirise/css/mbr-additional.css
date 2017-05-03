@@ -639,11 +639,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-6 .link {
-  font-size: 0.75rem;
+  font-size: 0.65rem;
 }
 #ext_menu-6 .dropdown-item,
 #ext_menu-6 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.704rem;
 }
 #ext_menu-6 .link:hover,
 #ext_menu-6 .dropdown-item:hover,
@@ -948,4 +948,69 @@ h6,
 }
 #header3-1q SMALL {
   color: #000000;
+}
+#ext_menu-1w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1w .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-1w .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-1w .close-icon::before,
+#ext_menu-1w .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-1w .link,
+#ext_menu-1w .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-1w .link {
+  font-size: 0.75rem;
+}
+#ext_menu-1w .dropdown-item,
+#ext_menu-1w .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-1w .link:hover,
+#ext_menu-1w .dropdown-item:hover,
+#ext_menu-1w .link:focus,
+#ext_menu-1w .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-1w .link[aria-expanded="true"],
+#ext_menu-1w .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-1w .nav-dropdown-sm .link:focus,
+#ext_menu-1w .nav-dropdown-sm .link:hover,
+#ext_menu-1w .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1w .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-1w .navbar,
+#ext_menu-1w .nav-dropdown-sm,
+#ext_menu-1w .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1w .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-1w .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-1w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1w .bg-color.transparent.opened .link:hover,
+#ext_menu-1w .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-1w .link[aria-expanded="true"],
+#ext_menu-1w .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#header3-20 .mbr-section-title,
+#header3-20 .mbr-section-subtitle {
+  text-align: center;
 }
