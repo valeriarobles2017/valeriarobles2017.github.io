@@ -1888,7 +1888,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/6P5Id1-M_fY",
+              "src": "https://youtu.be/TmSbsNv2QCk",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1899,9 +1899,9 @@
               "size": 250
             }
           },
-          "title": "A Thousand Million Reasons-Rough Draft",
+          "title": "A Thousand Million Reasons-Final Draft",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/6P5Id1-M_fY\" data-toolbar=\"-mbrBtnMove\">WATCH HERE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/TmSbsNv2QCk\" data-toolbar=\"-mbrBtnMove\">WATCH HERE</a>"
         },
         {
           "_inherit": "menu",
